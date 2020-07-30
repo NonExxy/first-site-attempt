@@ -1,0 +1,17 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+}
+.nav {
+    text-align: center;
+    background-color: #333333;
+}
+.nav li {
+    display: inline;
+    padding-right: 20px;
+    color: #ffffff;
+  }
