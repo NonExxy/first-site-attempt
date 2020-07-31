@@ -9,9 +9,33 @@ ul {
 .nav {
     text-align: center;
     background-color: #333333;
+    height: 40px;
 }
 .nav li {
     display: inline;
+    padding-top: 20px;
     padding-right: 20px;
     color: #ffffff;
+    line-height: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .content-section {
+      background: #000077 url(night.jpg);
+      height: 95.5vh;
+  }
+  h1 {
+      color: white;
+      font-weight: bold;
+      text-align: center;
+      font-size: 10vh;
+      padding-top: 20vh;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  p {
+      color: white;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      padding-top: 20px;
+      font-size: x-large;
   }
